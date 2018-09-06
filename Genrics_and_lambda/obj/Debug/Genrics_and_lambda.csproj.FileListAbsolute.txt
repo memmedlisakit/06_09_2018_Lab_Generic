@@ -1,0 +1,10 @@
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\bin\Debug\Genrics_and_lambda.exe.config
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\bin\Debug\Genrics_and_lambda.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\bin\Debug\Genrics_and_lambda.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.Form1.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.Properties.Resources.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\Genrics_and_lambda\Genrics_and_lambda\obj\Debug\Genrics_and_lambda.pdb
